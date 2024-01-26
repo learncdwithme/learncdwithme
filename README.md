@@ -20,11 +20,5 @@ I create educational videos on coding and programming. Check out my [YouTube cha
 
 I'm open to collaborations and contributions. If you have ideas or want to work together, feel free to reach out!
 
-## Support My Work
-
-If you find my content helpful, consider supporting my work:
-
-- [Buy me a coffee](link-to-buy-me-a-coffee) ☕️
-
 Thank you for being part of the learncdwithme community! Happy coding! 🚀
 
